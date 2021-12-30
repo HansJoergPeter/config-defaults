@@ -1,0 +1,11 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+  {
+    "key": "shift+cmd+t",
+    "command": "test-explorer.run-all"
+  },
+  {
+    "key": "cmd+t",
+    "command": "test-explorer.run-test-at-cursor"
+  }
+]
