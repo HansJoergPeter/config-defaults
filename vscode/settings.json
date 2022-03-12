@@ -4,5 +4,8 @@
     "editor.detectIndentation": false,
     "editor.minimap.enabled": false,
     "customizeUI.titleBar": "inline",
-    "window.titleBarStyle": "native"
+    "window.titleBarStyle": "native",
+    "security.workspace.trust.untrustedFiles": "open",
+    "explorer.confirmDragAndDrop": false,
+    "workbench.editor.revealIfOpen": true
 }
